@@ -23,3 +23,5 @@ Machine Learning Stanford Coursera
 - learning curves 
 - Error Analysis 
 - Ceiling analysis 
+
+add more
