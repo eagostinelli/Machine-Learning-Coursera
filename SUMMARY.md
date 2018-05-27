@@ -1,5 +1,5 @@
 # Machine-Learning-Coursera
-Machine Learning Stanford Coursera
+Machine Learning Stanford Coursera <br/>
 My notes: https://github.com/eagostinelli/Data-Science-Notebook/tree/master/General%20ML%20notes
 
 ## Supervised learning - 教師あり学習 
